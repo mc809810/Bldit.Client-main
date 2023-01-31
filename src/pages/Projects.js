@@ -30,6 +30,9 @@ const Projects = () => {
       <button type="click" onClick={navigateToJobs}>
         Projects
       </button>
+      <button type="click" onClick={navigateToJobs}>
+        Projects
+      </button>
       <Footer />
     </div>
   );
